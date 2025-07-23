@@ -1,0 +1,2 @@
+1.0.1
+https://github.com/mrhoseinhack/my_appupdater/releases/download/v1.0.1/shopsoft.exe
